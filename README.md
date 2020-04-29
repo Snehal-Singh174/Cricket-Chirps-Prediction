@@ -6,9 +6,9 @@ In this i have implemented three regression algorithm Linear Regression, Decisio
 
 # Project
 
-![](img src="home.png" width="100")
+![](home.png)
 
 # Prediction
 
-![](img src="predict.png" width="100")
+![](predict.png)
 
