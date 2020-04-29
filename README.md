@@ -18,11 +18,13 @@ Sounding a danger alert when sensing trouble
 Crickets are part of the family Orthoptera (grasshoppers and katydids).
 </p>
 
-# Project
+## Project
 
 ![](home.png)
 
-# Prediction
+## Prediction
 
 ![](predict.png)
+
+## Just follow☝️ me and Star⭐ my repository 
 
