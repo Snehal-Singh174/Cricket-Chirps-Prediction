@@ -18,6 +18,13 @@ Sounding a danger alert when sensing trouble
 Crickets are part of the family Orthoptera (grasshoppers and katydids).
 </p>
 
+## Run
+```
+Open Anaconda Prompt
+Go to the project directory
+write python app.py
+```
+
 ## Project
 
 ![](home.png)
