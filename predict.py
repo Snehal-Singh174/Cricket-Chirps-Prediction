@@ -1,10 +1,10 @@
 #Predicting Number of times Cricket Chirps in the given temprature
 
 #Import libraries
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-import pickle
+import numpy as np    #importing numpy as np
+import matplotlib.pyplot as plt  #importing matplot as plt
+import pandas as pd   #importing pandas as pd
+import pickle     #importing pickle
 
 #Importing dataset
 dataset=pd.read_csv('Cricket_chirps.csv') 
